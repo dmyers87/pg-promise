@@ -43,7 +43,7 @@
     "assert-options": "0.6.2",
     "pg": "8.3.3",
     "pg-minify": "1.6.1",
-    "spex": "3.0.2",
+    "spex": "3.2.0",
     "aws-xray-sdk": "^3.1.0"
   },
   "devDependencies": {
