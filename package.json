@@ -40,7 +40,7 @@
     "node": ">=8.0"
   },
   "dependencies": {
-    "assert-options": "0.6.2",
+    "assert-options": "0.7.0",
     "pg": "8.3.3",
     "pg-minify": "1.6.1",
     "spex": "3.0.2",
